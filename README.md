@@ -18,6 +18,10 @@ https://itunes.apple.com/us/app/boost-remote/id1270503610?ls=1&mt=8
 ## Demonstration
 https://youtu.be/WuvGT8WqLrQ
 
+## How to make frameworks ( BoostBLEKit / ReSwift / ReactiveSwift )
+1. brew install carthage
+2. carthage update
+
 ## How to build
 1. Install [Xcode 10.3](https://developer.apple.com/xcode/)
 2. Clone this repository including submodules
